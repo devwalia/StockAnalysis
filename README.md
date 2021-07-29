@@ -1,4 +1,6 @@
 # StockAnalysis
+• STOCK TECHNICAL ANALYSIS MODEL WITH DIFFERENT GRAPHS 
+AND FUNCTIONS
 With the help of python as well as different libraries available in python (mainly pandas) I am  able to create the perfect stock analysis model which provides different types of technical  analysis graphs which help investors to study the stocks easily and they can compare any stocks  with this model and can select which stock is best for them to invest. 
 
 This modal is basically for technical experts’ peoples who have pre-knowledge of stocks and  shares, who are trading for like one year, because this modal has many predefined terms which  are not for beginners. So, for beginners I have develop a separate web app that is user friendly  and easy to use which don’t required any pre-defined knowledge. I will be using jupyter notebook to run all the commands and packages, it’s the best platform  to make an ml modal because of its great interface which provides various advantages to  developers. 
